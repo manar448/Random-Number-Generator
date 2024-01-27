@@ -1,0 +1,46 @@
+C:\Users\manar\source\repos\task\task\bin\Debug\netcoreapp3.1\task.exe
+C:\Users\manar\source\repos\task\task\bin\Debug\netcoreapp3.1\task.deps.json
+C:\Users\manar\source\repos\task\task\bin\Debug\netcoreapp3.1\task.runtimeconfig.json
+C:\Users\manar\source\repos\task\task\bin\Debug\netcoreapp3.1\task.runtimeconfig.dev.json
+C:\Users\manar\source\repos\task\task\bin\Debug\netcoreapp3.1\task.dll
+C:\Users\manar\source\repos\task\task\bin\Debug\netcoreapp3.1\task.pdb
+C:\Users\manar\source\repos\task\task\obj\Debug\netcoreapp3.1\task.csproj.AssemblyReference.cache
+C:\Users\manar\source\repos\task\task\obj\Debug\netcoreapp3.1\task.Form1.resources
+C:\Users\manar\source\repos\task\task\obj\Debug\netcoreapp3.1\task.csproj.GenerateResource.cache
+C:\Users\manar\source\repos\task\task\obj\Debug\netcoreapp3.1\task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manar\source\repos\task\task\obj\Debug\netcoreapp3.1\task.AssemblyInfoInputs.cache
+C:\Users\manar\source\repos\task\task\obj\Debug\netcoreapp3.1\task.AssemblyInfo.cs
+C:\Users\manar\source\repos\task\task\obj\Debug\netcoreapp3.1\task.csproj.CoreCompileInputs.cache
+C:\Users\manar\source\repos\task\task\obj\Debug\netcoreapp3.1\task.dll
+C:\Users\manar\source\repos\task\task\obj\Debug\netcoreapp3.1\task.pdb
+C:\Users\manar\source\repos\task\task\obj\Debug\netcoreapp3.1\task.genruntimeconfig.cache
+D:\semester 7\modeling\task\task\bin\Debug\netcoreapp3.1\task.exe
+D:\semester 7\modeling\task\task\bin\Debug\netcoreapp3.1\task.deps.json
+D:\semester 7\modeling\task\task\bin\Debug\netcoreapp3.1\task.runtimeconfig.json
+D:\semester 7\modeling\task\task\bin\Debug\netcoreapp3.1\task.runtimeconfig.dev.json
+D:\semester 7\modeling\task\task\bin\Debug\netcoreapp3.1\task.dll
+D:\semester 7\modeling\task\task\bin\Debug\netcoreapp3.1\task.pdb
+D:\semester 7\modeling\task\task\obj\Debug\netcoreapp3.1\task.Form1.resources
+D:\semester 7\modeling\task\task\obj\Debug\netcoreapp3.1\task.csproj.GenerateResource.cache
+D:\semester 7\modeling\task\task\obj\Debug\netcoreapp3.1\task.GeneratedMSBuildEditorConfig.editorconfig
+D:\semester 7\modeling\task\task\obj\Debug\netcoreapp3.1\task.AssemblyInfoInputs.cache
+D:\semester 7\modeling\task\task\obj\Debug\netcoreapp3.1\task.AssemblyInfo.cs
+D:\semester 7\modeling\task\task\obj\Debug\netcoreapp3.1\task.csproj.CoreCompileInputs.cache
+D:\semester 7\modeling\task\task\obj\Debug\netcoreapp3.1\task.dll
+D:\semester 7\modeling\task\task\obj\Debug\netcoreapp3.1\task.pdb
+D:\semester 7\modeling\task\task\obj\Debug\netcoreapp3.1\task.genruntimeconfig.cache
+C:\Users\Malak\Desktop\task\task\obj\Debug\netcoreapp3.1\task.Form1.resources
+C:\Users\Malak\Desktop\task\task\obj\Debug\netcoreapp3.1\task.csproj.GenerateResource.cache
+C:\Users\Malak\Desktop\task\task\obj\Debug\netcoreapp3.1\task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Malak\Desktop\task\task\obj\Debug\netcoreapp3.1\task.AssemblyInfoInputs.cache
+C:\Users\Malak\Desktop\task\task\obj\Debug\netcoreapp3.1\task.AssemblyInfo.cs
+C:\Users\Malak\Desktop\task\task\obj\Debug\netcoreapp3.1\task.csproj.CoreCompileInputs.cache
+C:\Users\Malak\Desktop\task\task\obj\Debug\netcoreapp3.1\task.dll
+C:\Users\Malak\Desktop\task\task\obj\Debug\netcoreapp3.1\task.pdb
+C:\Users\Malak\Desktop\task\task\bin\Debug\netcoreapp3.1\task.exe
+C:\Users\Malak\Desktop\task\task\bin\Debug\netcoreapp3.1\task.deps.json
+C:\Users\Malak\Desktop\task\task\bin\Debug\netcoreapp3.1\task.runtimeconfig.json
+C:\Users\Malak\Desktop\task\task\bin\Debug\netcoreapp3.1\task.runtimeconfig.dev.json
+C:\Users\Malak\Desktop\task\task\bin\Debug\netcoreapp3.1\task.dll
+C:\Users\Malak\Desktop\task\task\bin\Debug\netcoreapp3.1\task.pdb
+C:\Users\Malak\Desktop\task\task\obj\Debug\netcoreapp3.1\task.genruntimeconfig.cache

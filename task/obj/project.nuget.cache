@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "s8OAdNtmqw/7WI91zSeuh6ZndZLIGth8wblJI2U9u5bsk1LJaukXdC/31c2OdX4nez/WTR0yY/ace8UkoK/eew==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Malak\\Desktop\\task\\task\\task.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Malak\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Malak\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Malak\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Malak\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}
